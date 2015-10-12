@@ -3,7 +3,7 @@
 目录
 ===
 * <h2>框架</h2>
-    * <h3>KJAndroidFrame</h3>
+    * <h3>KJFrame</h3>
 
 * <h2>网络</h2>
  * <h3>Volley</h3>
@@ -20,10 +20,21 @@
 * <h2>存储</h2>
  * <h3>加密数据库 sqlcipher</h3>
 
+* <h2>其他</h2>
+ * <h3>注解框架ButterKnife</h3>
+ 
+ 
+
+[KJFrame](https://github.com/kymjs/KJFrameForAndroid)
+===
+###APi文档地址 http://kjframe.github.io/
+
+* **1.Activity(Fragment)Frame**
+   
+
 [图片下载缓存库Picasso](http://square.github.io/picasso/)
 ===
 
-##示例
 * **1.基本用法**
 ```java
 Picasso.with(context)    
