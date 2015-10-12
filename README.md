@@ -25,8 +25,9 @@
  
  
 
-<h1 id="KJFrame">[KJFrame](https://github.com/kymjs/KJFrameForAndroid)</h1>
+<h1 id="KJFrame">KJFrame</h1>
 ###APi文档地址 http://kjframe.github.io/
+###github地址  https://github.com/kymjs/KJFrameForAndroid
 
 * **1.Activity(Fragment)Frame**
    
