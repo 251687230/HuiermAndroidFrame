@@ -17,6 +17,7 @@
  * <h3>下拉刷新ListView SwipeRefreshLayout</h3>
  * <h3>自定义形状ImageView ShapeImageView</h3>
  * <h3>图片轮播 ImageCycleview</h3>
+ * <h3>左划菜单Navigation View</h3>
 
 * <h2>存储</h2>
  * <h3>加密数据库 sqlcipher</h3>
@@ -25,6 +26,7 @@
  * <h3>注解框架ButterKnife</h3>
  * <h3>非空格式验证框架 Android Validation</h3>
  * <h3>二维码生成及扫描 ZXing</h3>
+ * <h3>事件分发库 EventBus</h3>
  
  
 
