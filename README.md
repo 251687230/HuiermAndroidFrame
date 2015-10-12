@@ -18,6 +18,7 @@
  * <h3>自定义形状ImageView CustomShapeImageView</h3>
  * <h3>图片轮播 ImageCycleview</h3>
  * <h3>左划菜单Navigation View</h3>
+ * <h3>MaterialLoadingProgressBar</h3>
 
 * <h2>存储</h2>
  * <h3>加密数据库 sqlcipher</h3>
