@@ -20,6 +20,7 @@
  * <h3>左划菜单Navigation View</h3>
  * <h3>MaterialLoadingProgressBar</h3>
  * <h3>MaterialSearchView</h3>
+ * <h3>MaterialSpinner</h3>
 
 * <h2>存储</h2>
  * <h3>加密数据库 sqlcipher</h3>
