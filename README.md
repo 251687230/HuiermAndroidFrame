@@ -16,6 +16,7 @@
 * <h2>组件</h2>
  * <h3>下拉刷新ListView SwipeRefreshLayout</h3>
  * <h3>自定义形状ImageView ShapeImageView</h3>
+ * <h3>图片轮播 ImageCycleview</h3>
 
 * <h2>存储</h2>
  * <h3>加密数据库 sqlcipher</h3>
