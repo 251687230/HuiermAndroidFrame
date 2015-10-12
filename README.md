@@ -12,6 +12,7 @@
 * <h2>图片下载缓存</h2>
  * <h3>Picasso</h3>
  * <h3>Fresco</h3>
+ * <h3>Glide</h3>
  
 * <h2>组件</h2>
  * <h3>下拉刷新ListView SwipeRefreshLayout</h3>
